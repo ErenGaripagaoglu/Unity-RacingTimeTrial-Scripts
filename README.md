@@ -1,5 +1,7 @@
 # Unity-RacingTimeTrial-Scripts
 Scripts included in this repository is related with my unity game project: Izmir's Track Legends
+<br>
+<a href="https://github.com/ErenGaripagaoglu/Izmirs-Track-Legends">My repository for the game project can be found here</a>
 
 <h2>Important Note:</h2>
 As stated on some of my commits in this repository, files named as "CarController.cs", "Speedometer.cs", "FollowCamera.cs", "VehicleSounds.cs" have code blocks taken from an open source tutorial prepared by "@Nanousis" in github and "Nanousis Development" in Youtube. 
